@@ -2,7 +2,9 @@
 
 Interactive demo showing how Callers AI enables proactive customer communication for airlines.
 
-## [Live Demo](https://callers-ai-demo.vercel.app)
+## [Live Demo](https://likhonroy013.github.io/callers-ai-demo/)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/likhonroy013/callers-ai-demo)
 
 ## Features
 
